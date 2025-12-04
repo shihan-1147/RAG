@@ -1,0 +1,7 @@
+langchain
+langchain-community
+dashscope
+pypdf
+faiss-cpu
+python-dotenv
+tiktoken
